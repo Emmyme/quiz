@@ -42,6 +42,7 @@ let savedName = localStorage.getItem('name')
     margin-top: 3rem;
     border-radius: 1rem;
     padding: 0.5rem;
+    border-style: none;
  }
 
   #save {
@@ -52,6 +53,7 @@ let savedName = localStorage.getItem('name')
     padding: 0.5rem;
     color: white;
     background-image: linear-gradient(#060561, #383783);
+    border-style: none;
  }
 
   #save:hover {
@@ -71,7 +73,7 @@ let savedName = localStorage.getItem('name')
     font-size: 3rem;
     margin-top: 2rem;
     color: white;
-    text-shadow: 2px 2px 5px rgb(0, 0, 0);
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.722);
   }
 
   #new-player {

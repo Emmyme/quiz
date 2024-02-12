@@ -15,14 +15,15 @@
 
 <style>
   #try-again {
-  font-size: 1.5rem;
+  font-size: 2rem;
   font-family: digital;
-  width: 10vw;
+  width: 15vw;
   border-radius: 0.5rem;
   padding: 0.5rem;
   color: white;
   background-image: linear-gradient(#060561, #383783);
   margin-top: 9rem;
+  border-style: none;
   }
 
   #try-again:hover {

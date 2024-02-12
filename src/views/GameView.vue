@@ -143,6 +143,7 @@ import GameOverComponent from '@/components/GameOverComponent.vue';
     padding: 0.5rem;
     color: white;
     background-image: linear-gradient(#060561, #383783);
+    border-style: none;
   }
 
   #answers button:hover {
