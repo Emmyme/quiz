@@ -1,0 +1,14 @@
+* {
+  overflow-x: hidden;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+    background-image: linear-gradient(#9ea9edd2, #5569eab9);
+}
+#app {
+   display: flex;
+   flex-flow: column;
+   min-height: 100vh;
+}
