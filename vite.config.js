@@ -10,7 +10,7 @@ export default defineConfig({
     vue(),
     vueJsx(),
   ],
-  base: '/quiz',
+  base: '/quiz/',
   resolve: {
     alias: {
       '@': fileURLToPath(new URL('./src', import.meta.url))
