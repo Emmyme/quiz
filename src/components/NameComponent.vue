@@ -73,7 +73,7 @@ let savedName = localStorage.getItem('name')
     font-size: 3rem;
     margin-top: 2rem;
     color: white;
-    text-shadow: 0.15rem 0.15rem 0.25rem rgba(0, 0, 0, 0.722);
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.722);
   }
 
   #new-player {
